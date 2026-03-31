@@ -26,7 +26,7 @@ The model focuses on the **Anterior Cingulate Cortex (ACC)** and the **Left Insu
 ### 📚 Scientific Reference
 This computational model is grounded in the empirical research:
 > **Horvath, J., Mundinger, C., Schmitgen, M. M., et al. (2020).** *Structural and functional correlates of smartphone addiction.* [Addictive Behaviors].
-> [Link to Study]([https://doi.org/10.1016/j.addbeh.2020.106301](https://www.sciencedirect.com/science/article/abs/pii/S0306460319313802))
+> [Link to Study](https://www.sciencedirect.com/science/article/abs/pii/S0306460319313802)
 
 ### 📂 Repository Structure
 * `brain_mod_project.ipynb`: Core Python simulation, data analysis, and visualization.
